@@ -1,17 +1,15 @@
 {
     "users": [
         {
-        "id" : 1,
-        "name": "Alice" ,
-        "surename":  "Smith",
-         
-
-    }
-
+        "id": 1,
+        "name": "Alice",
+        "surname": "Smith",
+        "photo_url": "https://example.com/photos/alice.jpg",
+        "balance": 1500.75
+        }
     ],
 
-
-"products": [
+     "products": [
         {
             "id": 1,
             "name": "LED display",
@@ -61,5 +59,4 @@
             "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
         }
     ]
-
-    }
+}
