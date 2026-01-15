@@ -2,12 +2,14 @@
     "users": [
         {
         "id" : 1,
-        "name" "Alice" ,
-        "surename": 
+        "name": "Alice" ,
+        "surename":  "Smith",
+         
 
     }
-    ]
-}
+
+    ],
+
 
 "products": [
         {
@@ -59,3 +61,5 @@
             "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
         }
     ]
+
+    }
